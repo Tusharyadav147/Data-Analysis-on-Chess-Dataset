@@ -1,0 +1,418 @@
+,player,win_count
+0,"Hamdouchi, Hichem",123
+1,"Fridman, Daniel",112
+2,"Svidler, Peter",438
+3,"Alterman, Boris",106
+4,"Nepomniachtchi,I",268
+5,"Ivanchuk,V",714
+6,"Andersson, Ulf",475
+7,"Jussupow, Artur",77
+8,"Piket,Je",176
+9,"Van Wely, Loek",243
+10,"Onischuk,Al",93
+11,Peng Xiaomin,655
+12,"Kacheishvili,G",126
+13,"Vladimirov,E",357
+14,"Luther,T",224
+15,"Ivanchuk, Vassily",167
+16,"Sakaev, Konstantin",35
+17,"Steinitz, William",3699
+18,"Carlsen,M",352
+19,"Ivanov,AV",171
+20,"Istratescu, Andrei",241
+21,"Charbonneau,P",72
+22,"Tiviakov,S",455
+23,"Cvitan,O",20
+24,"Karpov, Anatoly",3974
+25,Gu Xiaobing,103
+26,"Miladinovic, Igor",172
+27,"Lerner, Konstantin Z",50
+28,"Kotsur, Pavel",71
+29,"Adams,Mi",1278
+30,Yu Shaoteng,186
+31,"Benjamin,Joe",304
+32,"Benjamin, Joel",193
+33,"Hernandez,Gi",48
+34,"Djuric, Stefan",86
+35,"Ricardi, Pablo",42
+36,"Al Modiahki,M",316
+37,"Goldin,A",47
+38,"Aleksandrov, Aleksej",270
+39,"Adianto, Utut",192
+40,"Ponomariov,R",623
+41,"Sarthou,G",74
+42,"Gdanski,J",43
+43,"Lautier, Joel",370
+44,"Glek, Igor V",148
+45,"Nisipeanu, Liviu Dieter",382
+46,"Shipov, Sergei",119
+47,"Illescas Cordoba, Miguel",54
+48,"Abulhul,T",99
+49,"Zvjaginsev,V",269
+50,"Stefansson,H",49
+51,"Ponomariov, Ruslan",270
+52,"Leko,P",960
+53,Xu Jun,265
+54,"Kramnik, Vladimir",292
+55,"Kaidanov,G",35
+56,"Pina,S",194
+57,"Kasimdzhanov,R",1464
+58,"Solomon,K",52
+59,Ye Jiangchuan,518
+60,"Eingorn,V",62
+61,"Serper,G",152
+62,"Al Modiahki, Mohamad",57
+63,"Gretarsson, Helgi Ass",79
+64,"Rizouk,A",67
+65,"Sadvakasov, Darmen",49
+66,"Kozul,Z",346
+67,"Short, Nigel D",909
+68,"Portisch, Lajos",66
+69,"Nielsen, Peter Heine",190
+70,"Kortschnoj, Viktor",1312
+71,"Nielsen,PH",214
+72,"Bagheri,A",25
+73,"Kindermann, Stefan",340
+74,"Stepovaia Dianchenko,T",53
+75,"Feldman, Vladimir",88
+76,"Karlov,A",52
+77,"Asrian, Karen",273
+78,"Bauer, Christian",103
+79,"Anand, Viswanathan",1223
+80,"Cabrera,A",66
+81,"Bezgodov,A",62
+82,"Mohamed, Esam Ahmed Nagib",140
+83,"Speelman, Jonathan S",96
+84,"Akopian,V",43
+85,"Wells, Peter K",45
+86,"Kasimdzhanov, Rustam",54
+87,"Rublevsky, Sergei",336
+88,Wang Zili,65
+89,"Adianto,U",364
+90,"Kobese,W",146
+91,"Seirawan, Yasser",148
+92,"Mastrovasilis,D",61
+93,"Acs,P",307
+94,"Minasian,Art",270
+95,"Hansen, Curt",128
+96,"Sulskis,S",439
+97,"Almasi, Zoltan",471
+98,"Keres, Paul",667
+99,"Korchnoi,V",59
+100,"Zeliakov,Nugzar",17
+101,"Radziewicz,I",168
+102,"Hoffman,A",23
+103,"Ciuksyte,D",42
+104,"Hakki,I",44
+105,"Cela, Altin",40
+106,"Janowsky, Dawid Markelowicz",699
+107,"Campora,D",168
+108,"Nikolic, Predrag",70
+109,"Tarrasch, Siegbert",485
+110,"Elarbi,A",100
+111,"Shipov,S",76
+112,"Polgar, Judit",254
+113,"Wohl,A",90
+114,"Alekseev,Evgeny",61
+115,"Kiseleva,N",74
+116,"Gurevich, Dmitry",132
+117,"Ehlvest, Jaan",223
+118,"Tkachiev, Vladislav",433
+119,"Sadler, Matthew",191
+120,"Umgaev, Alexander",84
+121,"Kurajica, Bojan",121
+122,"Gagunashvili,M",75
+123,"Beliavsky,A",481
+124,"Savchenko,S",129
+125,"Becerra Rivero, Julio",55
+126,"Petursson, Margeir",39
+127,"Gonzalez Garcia,J",37
+128,"Dableo,R",35
+129,"Malakhov,V",404
+130,"Volokitin,A",165
+131,"Vlassov,N",50
+132,"Kveinys,A",109
+133,"Kotronias, Vasilios",169
+134,"Zelcic, Robert",162
+135,"Haznedaroglu,K",54
+136,"Pigusov,E",195
+137,"Nakamura,H",359
+138,"Gurevich,D",25
+139,"Kadhi,H",89
+140,"Radjabov,T",370
+141,"Piket, Jeroen",158
+142,"Wojtkiewicz,A",111
+143,"Blehm,P",60
+144,"Dreev, Alexey",680
+145,"Oll, Lembit",115
+146,"Bareev,E",766
+147,"Shirov,A",1052
+148,"Van Wely,L",770
+149,"Foisor,C",104
+150,"Magem Badals, Jorge",229
+151,"Khenkin,I",111
+152,"Speelman,J",137
+153,"Ivanov, Alexander",49
+154,"Neverov,V",105
+155,"Leko, Peter",136
+156,"Macieja,B",804
+157,"Karjakin,Sergey",41
+158,"Atalik,S",59
+159,"Mahjoob,M",174
+160,"Barua,D",274
+161,"Kharlov,A",416
+162,"Giorgadze, Giorgi",138
+163,Bu Xiangzhi,51
+164,"Beliavsky, Alexander G",380
+165,"Simutowe,A",232
+166,"Motylev,A",266
+167,"Agrest,E",73
+168,"Zielinska,Mar",34
+169,"Garcia, Gildardo",68
+170,"Bronstein, David I",492
+171,"Alekhine, Alexander",3134
+172,"Bacrot,E",373
+173,"Gluzman,M",69
+174,"Granda Zuniga, Julio E",162
+175,"Aleksandrov,A",340
+176,"Sulskis, Sarunas",36
+177,Nguyen Anh Dung,145
+178,"Bouaziz, Slim",38
+179,"Tiviakov, Sergei",262
+180,"Nataf,IA",275
+181,"Adly,A",64
+182,"Avrukh,B",79
+183,"Fedorov, Alexei",120
+184,"Krasenkow,M",525
+185,"Luther, Thomas",116
+186,"Morozevich,A",1147
+187,"Nisipeanu,LD",540
+188,"Yermolinsky,A",389
+189,"Botvinnik, Mikhail",4072
+190,"Khalifman,A",545
+191,"Dizdar, Goran",155
+192,"Karpov,An",66
+193,"Chernin, Alexander",175
+194,"Tkachiev,V",512
+195,"Milov, Vadim",467
+196,"Sasikiran,K",362
+197,"Rustemov,A",58
+198,"Johansen,D",27
+199,"Shabalov,A",103
+200,"Topalov,V",2122
+201,"Zapata,A",173
+202,"Wahls, Matthias",101
+203,"Spassky, Boris V",1186
+204,"Ghaem Maghami,E",211
+205,"Baginskaite,C",145
+206,"Lutz,C",144
+207,"Spraggett, Kevin",140
+208,"Georgiev, Kiril",397
+209,"Murshed, Niaz",53
+210,"Paragua,M",150
+211,"Lasker, Emanuel",3264
+212,"Kritz,L",144
+213,"Mamedyarov,S",209
+214,"Kozak, Alexander",75
+215,"Kramnik,V",980
+216,"Garcia Palermo,C",44
+217,"Christiansen,L",115
+218,"Rytshagov,M",105
+219,"Rodriguez, Andres",161
+220,"Chiburdanidze, Maia",46
+221,"Kobalia,M",98
+222,"Harikrishna,P",212
+223,"Sakaev,K",852
+224,"Kempinski,R",40
+225,"Safin,S",49
+226,"Khalifman, Alexander",1092
+227,"Bogoljubow, Efim",1312
+228,"Iuldachev,S",69
+229,"Yermolinsky, Alex",383
+230,"Chigorin, Mikhail",1331
+231,"Asabri,Hu",70
+232,"Ehlvest,J",509
+233,"Anastasian, Ashot",92
+234,"Supatashvili,K",37
+235,"Fominyh, Alexander",34
+236,"Felgaer,R",365
+237,"Petrosian, Tigran V",1164
+238,"Nevednichy,V",137
+239,"Morovic Fernandez,I",29
+240,"Barua, Dibyendu",317
+241,"Zubarev, Alexander",98
+242,"Fischer, Robert James",402
+243,"Shovunov,B",25
+244,"Reinderman, Dimitri",49
+245,"Carlsen, Magnus",519
+246,"Lautier,J",427
+247,"Utnasunov,A",145
+248,"Timman, Jan H",519
+249,"El Taher,F",193
+250,"Azmaiparashvili,Z",794
+251,"Fiorito,F",101
+252,"Dolmatov, Sergey",311
+253,"Lima,Da",115
+254,"Georgiev,Ki",518
+255,"Miles, Anthony J",274
+256,"Christiansen, Larry Mark",46
+257,"Smirnov,P",357
+258,"Van der Sterren, Paul",43
+259,"Kamsky, Gata",637
+260,"Krasenkow, Michal",516
+261,"Vescovi,G",134
+262,"Hamdouchi,H",394
+263,"Ivanov,AV USA",97
+264,"Sutovsky,E",334
+265,"Zapata, Alonso",47
+266,"Movsesian, Sergei",192
+267,"Hoeksema, Hendrik Pieter",35
+268,"Delchev,A",296
+269,"Fedorov,Alex",94
+270,"De Firmian, Nick E",57
+271,"Vallejo Pons,F",397
+272,"Tregubov,P",172
+273,"Gurevich,M",510
+274,"Kasparov, Gary",2298
+275,"Gunsberg, Isidor",372
+276,"Inarkiev,E",134
+277,"Bruzon,L",311
+278,"Baklan,V",240
+279,"Mohota,N",53
+280,"Hracek, Zbynek",55
+281,"Graf,A",275
+282,"Anastasian,A",363
+283,"Lesiege,A",150
+284,"Kobalija, Mihail",141
+285,"Zaja,I",37
+286,"Vasquez,R",228
+287,"Zukertort, Johannes Hermann",648
+288,"Rublevsky,S",392
+289,"Sutovskij, Emil",39
+290,"Morovic Fernandez, Ivan",48
+291,"Hernandez, Gilberto",36
+292,"Reshevsky, Samuel Herman",473
+293,"Almasi,Z",374
+294,"Lastin,A",291
+295,"Dautov,R",111
+296,"Aseev,K",21
+297,"El Gindy,E",73
+298,"Kotronias,V",217
+299,"Svidler,P",1039
+300,"Moiseenko,A",148
+301,"Vaganian, Rafael A",176
+302,"Capablanca, Jose Raul",690
+303,"Leitao, Rafael",86
+304,Xu Yuanyuan,195
+305,"Epishin, Vladimir",181
+306,"Ganguly,S",175
+307,"Asrian,K",210
+308,"Babula, Vlastimil",138
+309,"Tissir,M",79
+310,"Sokolov, Ivan",291
+311,"Sokolov, Andrei",170
+312,"Polgar,Ju",602
+313,Wang Yu,73
+314,"Smyslov, Vassily",2105
+315,"Galkin,A",174
+316,"Psakhis,L",251
+317,"Van der Wiel, John TH",47
+318,"Aronian, Levon",158
+319,"Touzane,O",96
+320,Liang Chong,120
+321,"Antonio, Rogelio Jr",120
+322,"Bologan, Viktor",226
+323,"Schlechter, Carl",128
+324,"Grischuk,A",1351
+325,"Akopian, Vladimir",715
+326,Zhang Pengxiang,133
+327,"Kudrin, Sergey",30
+328,"Milos,G",256
+329,"Guseinov,G",107
+330,"Kasparov,G",63
+331,"Gaprindashvili,N",35
+332,"Sokolov,I",153
+333,"Kotsur,P",158
+334,"Leitao,R",383
+335,"Tal, Mihail",1100
+336,"Dominguez,L",449
+337,"Volkov,S",422
+338,"Pierrot,F",90
+339,"Macieja, Bartlomiej",158
+340,"Dolmatov,S",43
+341,"Ramirez,Al",56
+342,"Filippov,Va",397
+343,"Dizdarevic,E",192
+344,"Bacrot, Etienne",53
+345,"Movsesian,S",667
+346,"Rogozenko,D",43
+347,"Smirin, Ilia",58
+348,"Akopian,Vl",245
+349,"Bologan,V",312
+350,"Neelotpal,D",100
+351,"Short,N",360
+352,"Rozentalis, Eduardas",202
+353,"Arakhamia,K",42
+354,"Paehtz,E",169
+355,"Labib,I",41
+356,"Hansen,SuB",40
+357,"Aronian,L",572
+358,"Kudrin,S",112
+359,Li Wenliang,45
+360,"Zvjaginsev, Vadim",546
+361,"Bartel,Mat",77
+362,"Gelfand,B",746
+363,"Dreev,A",1066
+364,Zhang Zhong,285
+365,"Sargissian,G",222
+366,"Kunte,A",25
+367,"Shaked, Tal",391
+368,"Nenashev, Alexander",100
+369,Dao Thien Hai,305
+370,"Villamayor,B",208
+371,"Gelfand, Boris",652
+372,"Volkov,S1",138
+373,"Kobese, Watu",88
+374,"Milos, Gilberto",473
+375,"Milov,V",382
+376,"Salov, Valery",167
+377,"Kaidanov, Grigory S",179
+378,"Sadvakasov,D",164
+379,"Hoffman, Alejandro",64
+380,"Arab,A",116
+381,"Stefansson, Hannes",146
+382,"Iordachescu,V",393
+383,"Prudnikova,S",145
+384,Ni Hua,357
+385,"Kobalija,M",61
+386,"Belkhodja,S",52
+387,"Gulko,B",228
+388,"Nogueiras,J",52
+389,"Akesson, Ralf",139
+390,"Bareev, Evgeny",184
+391,"Azmaiparashvili, Zurab",291
+392,"Gulko, Boris F",128
+393,"Karjakin, Sergey",213
+394,"Chernin,A",198
+395,"Malaniuk, Vladimir P",168
+396,"Anand,V",1574
+397,"Vaganian,R",499
+398,"Psakhis, Lev",146
+399,"Slobodjan, Roman",105
+400,"Nikolic,Pr",294
+401,"Shirov, Alexei",545
+402,"Marshall, Frank James",370
+403,"Barsov,A",139
+404,"Nijboer, Friso",293
+405,"Adams, Michael",1137
+406,"Smirin,I",320
+407,"Timoshenko,G",66
+408,"Godena,M",51
+409,"Hjartarson, Johann",123
+410,"Euwe, Max",1894
+411,"Lputian,S",457
+412,"Jobava,Ba",248
+413,"Landa,K",79
+414,"Gyimesi,Z",29
+415,"Topalov, Veselin",380
+416,"Morozevich, Alexander",143
